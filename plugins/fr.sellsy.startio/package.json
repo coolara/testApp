@@ -1,0 +1,58 @@
+{
+  "_from": "git+https://github.com/InteractiveObject/StarIOPlugin.git",
+  "_id": "cordova-stario-plugin@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-NQwemmyfc65p+OKPww0vlaE7tUQ=",
+  "_location": "/cordova-stario-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/InteractiveObject/StarIOPlugin.git",
+    "rawSpec": "https://github.com/InteractiveObject/StarIOPlugin.git",
+    "saveSpec": "git+https://github.com/InteractiveObject/StarIOPlugin.git",
+    "fetchSpec": "https://github.com/InteractiveObject/StarIOPlugin.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/InteractiveObject/StarIOPlugin.git#ee10b1f2a6a9fb6151a8ffdca1c5583c9e491742",
+  "_spec": "https://github.com/InteractiveObject/StarIOPlugin.git",
+  "_where": "/Users/apple/myApp",
+  "author": {
+    "name": "Interactive Object"
+  },
+  "bugs": {
+    "url": "https://github.com/InteractiveObject/StarIOPlugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "fr.sellsy.startio",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "pluging to use StarIO printer",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "homepage": "https://github.com/InteractiveObject/StarIOPlugin#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-stario-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InteractiveObject/StarIOPlugin.git"
+  },
+  "version": "0.0.4"
+}
